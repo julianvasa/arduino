@@ -1,6 +1,6 @@
 <h1><b>Arduino camera controller</b></h1>
 
-I started this project in 2012 with my cousin Leonard Trashaj. We wanted to build something (cheap) that shoots 6 simultaneous photos (kind of Google Street View) and take photos all over Albania. We didn't have too much money to spend on this project and that's why we take a look at the Arduino project.
+This project in 2012. We wanted to build something (cheap) that shoots 6 simultaneous photos (kind of Google Street View) and take photos all over Albania. We didn't have too much money to spend on this project and that's why we took a look at the Arduino project.
 <br><br>
 The controller runs an arduino program (trackview) which controls 6 GoPro cameras to shoot instantaneous photos at regular intervals (parametrized). <br>First you have to download and install [Arduino IDE](https://www.arduino.cc/en/main/software) and than deploy the script trackview to the Arduino device.<br>
 It performs 3 main tasks, first it records a bunch of sensor data like GPS, Barometer, Pitch, Roll, Heading. <br>
@@ -29,9 +29,6 @@ I made two versions of this app:
 - [ST7920 based 128x64 graphical LCD](https://www.sparkfun.com/products/retired/9351) - optional
 - Any serial GPS (module) outputting NMEA sentences - optional
 - 6 x GoPro Hero HD cameras
-
-Leonard did most of the hardware part (wiring stuff), putting all these components together and make them to talk to each other :) <br>
-I did my job in the Software division :)
 
 <h2><b>Software</b></h2>
 
