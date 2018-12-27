@@ -51,4 +51,4 @@ Download all these and put them in you sketchbook/libraries folder (create this 
 The data is written directly to the SD card, from start to end. The format is:
 Date+ _ +Time+ _ +Lat+ _ +Lon+ _ +pitch+ _ +roll+ _ +yaw
 
-
+We managed to take some pics (around 2000-3000 panos). We created a website [Albumi - Albania Virtual Tour](http://www.albumi.com) 
